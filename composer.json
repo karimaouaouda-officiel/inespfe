@@ -1,0 +1,13 @@
+{
+    "name": "inespfe/ines",
+    "description": "this the main project pfe",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Inespfe\\Ines\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
